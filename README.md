@@ -109,3 +109,7 @@
 ### Dependencies
 - Express (version 4.17.1 or higher)
 - Body-parser (version 1.19.0 or higher)
+
+## Sample Code
+
+For sample code demonstrating how to use the API, please refer to the `sample_code.md` file.
